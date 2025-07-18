@@ -23,10 +23,10 @@ A simple and clean Android calculator app built using **Java** and **XML**.
 ### UI Preview
 
 
-[View Image](Screenshots/calculator%20c1.PNG)
-[View Image](Screenshots/calculator%20c2.PNG)
-[View Image](Screenshots/calculator%20ui%202.PNG)
-[View Image](Screenshots/calculator%20ui.jpg)
+[View Code pic 1 ](screenshots/calculator%20c1.PNG)<br>
+[View code pic 2](screenshots/calculator%20c2.PNG)<br>
+[View Screenshot 1](screenshots/calculator%20ui%202.PNG)<br>
+[View Screenshot 2](screenshots/calculator%20ui.jpg)
 
 
 ---
