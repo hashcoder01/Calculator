@@ -18,10 +18,10 @@ A simple and clean Android calculator app built using **Java** and **XML**.
 
 ### UI Preview
 
-![Calculator Screenshot 1](screenshots/calculator_c1.PNG)
-![Calculator Screenshot 2](screenshots/calculator_c2.PNG)
-![Calculator UI 2](screenshots/calculator_ui_2.PNG)
-![Calculator UI Image](screenshots/calculator_ui.jpg)
+![Calculator Screenshot 1](Screenshots/calculator_c1.PNG)
+![Calculator Screenshot 2](Screenshots/calculator_c2.PNG)
+![Calculator UI 2](Screenshots/calculator_ui_2.PNG)
+![Calculator UI Image](Screenshots/calculator_ui.jpg)
 
 
 ---
