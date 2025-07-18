@@ -22,11 +22,11 @@ A simple and clean Android calculator app built using **Java** and **XML**.
 
 ### UI Preview
 
-![Calculator Screenshot 1](https://raw.githubusercontent.com/hashcoder01/Calculator/main/Screenshots/calculator%20c1.PNG)
-![Calculator Screenshot 2](https://raw.githubusercontent.com/hashcoder01/Calculator/main/Screenshots/calculator%20c2.PNG)
-![Calculator UI 2](https://raw.githubusercontent.com/hashcoder01/Calculator/main/Screenshots/calculator%20ui%202.PNG)
-![Calculator UI Image](https://raw.githubusercontent.com/hashcoder01/Calculator/main/Screenshots/calculator%20ui.jpg)
 
+[View Image](Screenshots/calculator%20c1.PNG)
+[View Image](Screenshots/calculator%20c2.PNG)
+[View Image](Screenshots/calculator%20ui%202.PNG)
+[View Image](Screenshots/calculator%20ui.jpg)
 
 
 ---
